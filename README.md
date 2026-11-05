@@ -7,7 +7,7 @@ An extension of [dh-01-indic-stopwords](https://github.com/jha-khushi/dh-01-indi
 ![Coverage](figures/coverage_pies.png)
 
 ```bash
-pip install matplotlib && python evaluate_stopwords.py
+pip install matplotlib && python evaluate_stopwords.py && python heatmaps.py
 ```
 
 Texts: Wikipedia contributors, CC BY-SA 4.0 (sources at the top of each file in `texts/`).
